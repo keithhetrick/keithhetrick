@@ -1,8 +1,8 @@
 <!-- Begin First Section -->
 <h1>Hi 👋 I’m Keith Hetrick</h1>
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate Full-Stack software developer & engineer. I specilaize in JavaScript (React, Node, NoSQL) & am currently learning TypeScript, React Native, Django, as well as deployment & other Cloud engineering technologies like AWS (Amazon Web Services), SSH, SSL & Bash/Linux.
+<p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
+    I am a Full-Stack software developer. I specilaize in JavaScript (React, Node, NoSQL) & am currently learning TypeScript, React Native, Django, as well as deployment & other Cloud engineering technologies like AWS (Amazon Web Services), SSH, SSL & Bash/Linux.
 <br>
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >I’m looking to collaborate on projects & portfolio bulding. Looking forward to connecting with you!</p>
 <br>
