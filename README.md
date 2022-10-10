@@ -4,7 +4,7 @@
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate Full-Stack software developer & engineer. I specilaize in JavaScript (React, Node, NoSQL) & am currently learning TypeScript, React Native, Django, as well as deployment & other Cloud engineering technologies like AWS (Amazon Web Services), SSH, SSL & Bash/Linux.
 <br>
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >I’m looking to collaborate on projects & portfolio bulding. Looking forward to connecting with you!</p>
+<p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >I’m looking to collaborate on projects & portfolio bulding. Looking forward to connecting with you!</p>
 <br>
 <div align="center">
 
@@ -28,6 +28,12 @@
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
@@ -39,12 +45,6 @@
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
       <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
@@ -111,7 +111,7 @@
     <a href="https://www.linkedin.com/in/keith-justin-hetrick/" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="linkedin" width="40px"/>
     </a>
-    <a href="https://programming-gym.blogspot.com/" target="_blank">
+    <a href="https://en.wikipedia.org/wiki/Keith_Hetrick" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wikipedia_svg_logo.svg/2048px-Wikipedia_svg_logo.svg.png" alt="wikipedia" width="40px"/>
     </a>
     <a href="mailto:keithjhetrick@gmail.com" target="_blank">
