@@ -104,11 +104,14 @@
 
 <!-- Start Fourth Section -->
 
-<h2 style="color: #44AEFB">🤖 Automation</h2>
+<h2 style="color: #44AEFB">🤖 AI & Automation</h2>
 
-<p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">Interactive Discord Bot: WOCKA-FLOCKA(https://github.com/keithhetrick/wocka-flocka-bot)</p>
+<p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">Interactive Discord Bot: WOCKA-FLOCKA (https://github.com/keithhetrick/wocka-flocka-bot)</p>
 
-<p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">[AWS/S3 Bucket Functionality in Node, complete with automated File Read](https://github.com/keithhetrick/s3-practice)</p>
+<p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">AWS/S3 Bucket Functionality in Node, complete with automated File Read (https://github.com/keithhetrick/s3-practice)</p>
+
+<p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">Chatty Cathy, an AI personal assistant (https://github.com/keithhetrick/open-ai-chatbot)</p>
+
 
 ---
 
