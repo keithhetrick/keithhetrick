@@ -110,7 +110,7 @@
 
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">AWS/S3 Bucket Functionality in Node, complete with automated File Read (https://github.com/keithhetrick/s3-practice)</p>
 
-<p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">Chatty Cathy, an AI personal assistant (https://github.com/keithhetrick/open-ai-chatbot)</p>
+<p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">Chatty Cathy, an AI personal assistant (https://github.com/keithhetrick/open-ai-chatty-cathy)</p>
 
 
 ---
