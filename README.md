@@ -112,6 +112,7 @@
 
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">Chatty Cathy, an AI personal assistant (https://github.com/keithhetrick/open-ai-chatty-cathy)</p>
 
+<p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">Collection of Web Scrapers in Node.js (https://github.com/keithhetrick/web-scraping-with-node)</p>
 
 ---
 
