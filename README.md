@@ -108,9 +108,7 @@
 
 # Interactive Discord Bot: WOCKA-FLOCKA BOT
 
-Interactive bot that can tell you jokes, quotes, stories, even give you Developer-related information.
-
-A back-end AI bot/app built with Node, Axios, multiple 3rd party API's & deployed to AWS for 24-hr functionality. Wocka-Flocka uses Discord as its "front-end" that enables users to engage with it. 
+## Interactive bot that can tell you jokes, quotes, stories, even give you Developer-related information.
 
 Wocka-Flock built using:
 
@@ -127,19 +125,19 @@ Wocka-Flock built using:
 - [Node-Cron](https://www.npmjs.com/package/node-cron)
 
 ```
-
 Deployed to AWS EC2 Instance for 24-hr functionality
 Automated Quote of the Day using Node-Cron
 Dynamic _"Holiday Countdown"_ algorithm
 "Dictionary" app that can define any word inside the Merriam-Webster Dictionary
 Embedded "Weather" app that gives real-time climate data based on user location 
+Wocka-Flocka uses Discord as its "front-end" that enables users to engage with it. 
 ```
 
 [Wocka-Flocka Github](https://github.com/keithhetrick/wocka-flocka-bot)
 
 # AWS/S3 Bucket Functionality in Node
 
-Full CRUD with S3 Bucket, AWS, and Node.js. Uses a random bucket name generator to create a unique bucket name for each user to avoid bucket name collisions. The bucket name is saved in a text file in the root directory in susbtitution of a database...can be easily modified to use a database.
+## Full CRUD with S3 Bucket, AWS, and Node.js. Uses a random bucket name generator to create a unique bucket name for each user to avoid bucket name collisions. The bucket name is saved in a text file in the root directory in susbtitution of a database...can be easily modified to use a database.
 
 Project built using:
 
@@ -181,9 +179,22 @@ Before running app, make sure to comment out the desired function(s) in the inde
 
 # Chatty Cathy, an AI personal assistant 
 
-    - Full-stack app
-    - Built with Javascript, Vite, Node, Axios, & OpenAI
-    - deployed to AWS   
+## Meet Cathy, a Full-stack, fully-responsive personal AI assistant. Type any question to get real-time answers from Cathy herself. Ask and you shall receive! 
+
+Chatty Cathy built using:
+
+- [Javascript](https://www.javascript.com/)
+- [Vite](https://vitejs.dev/)
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [AWS](https://aws.amazon.com/)
+- [AWS-EC2](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_instances.html)
+- [OpenAI](https://openai.com/)
+
+
+Deployed to AWS for 24-hr access
+
         
 [Chatty Cathy Github](https://github.com/keithhetrick/open-ai-chatty-cathy)
         
