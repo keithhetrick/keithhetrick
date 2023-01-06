@@ -106,38 +106,105 @@
 
 <h2 style="color: #44AEFB">🤖 AI & Automation</h2>
 
-# Interactive Discord Bot: WOCKA-FLOCKA BOT
+# Table of Contents
 
-## Interactive bot that can tell you jokes, quotes, stories, even give you Developer-related information.
+- **Wocka-Flocka Bot** - _automated & interactive Discord Bot_
+- **AWS/S3 Bucket Creator** - _full CRUD app that interacts directly with S3 buckets from the terminal_
+- **Chatty Cathy** - _interacive chatbot utilzing OpenAI's ChatGPT AI technology_
+- **Web Scrapers Collection** - _a series of web scraper apps in Node.js_
+
+## Wocka-Flocka Bot
+
+### Interactive bot that can tell you jokes, quotes, stories, the weather, even define words in the Merriam-Webster Dictionary! It can also play games with you such as Rock, Paper, Scissors, Guess the Number, as well as fully-integrated AI-powered conversations using OpenAI GPT-3 technology!
+
+[Wocka-Flocka Github](https://github.com/keithhetrick/wocka-flocka-bot)
 
 Wocka-Flock built using:
 
 - [Node.js](https://nodejs.org/en/)
 - [Discord.js](https://discord.js.org/#/)
+- [OpenAI](https://openai.com/)
+- [ChatGPT](https://openai.com/)
 - [Cleverbot](https://www.npmjs.com/package/cleverbot-free)
 - [Axios](https://www.npmjs.com/package/axios)
 - [AWS](https://aws.amazon.com/)
 - [AWS-EC2](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_instances.html)
+- [Cheerio](https://www.npmjs.com/package/cheerio)
 - [Weather-js](https://www.npmjs.com/package/weather-js)
 - [Ip](https://www.npmjs.com/package/ip)
 - [ip2Location-nodejs](https://www.npmjs.com/package/ip2location-nodejs)
 - [ipify2](https://www.npmjs.com/package/ipify2)
 - [Node-Cron](https://www.npmjs.com/package/node-cron)
+- [Merriam-Webster](https://dictionaryapi.com/)
 
-```
+
 Deployed to AWS EC2 Instance for 24-hr functionality
-Automated Quote of the Day using Node-Cron
-Dynamic _"Holiday Countdown"_ algorithm
-"Dictionary" app that can define any word inside the Merriam-Webster Dictionary
-Embedded "Weather" app that gives real-time climate data based on user location 
-Wocka-Flocka uses Discord as its "front-end" that enables users to engage with it. 
-```
 
-[Wocka-Flocka Github](https://github.com/keithhetrick/wocka-flocka-bot)
+Wocka-Flocka uses Discord as its "front-end" that enables users to engage with it.
 
-# AWS/S3 Bucket Functionality in Node
+_ChatGPT_ integration allows Wocka-Flocka users to have real AI-powered conversations with the bot using OpenAI GPT-3 technology.
 
-## Full CRUD with S3 Bucket, AWS, and Node.js. Uses a random bucket name generator to create a unique bucket name for each user to avoid bucket name collisions. The bucket name is saved in a text file in the root directory in susbtitution of a database...can be easily modified to use a database.
+<img width="988" alt="Screen Shot 2023-01-06 at 4 16 05 PM" src="https://user-images.githubusercontent.com/104343338/211109099-68c55dc2-fd77-4294-96fe-b30ae87bc3e6.png">
+
+Automated _"Quote of the Day"_ feature using Node-Cron
+
+Dynamic _"Holiday Countdown"_ algorithm tells you how many days until any specific holiday
+
+<img width="970" alt="Screen Shot 2023-01-06 at 4 11 04 PM" src="https://user-images.githubusercontent.com/104343338/211108563-00353a83-30d8-47f9-be8d-8a1d5d69e5c0.png">
+
+Plethora of embedded game apps that can be played with Wocka-Flocka such as: 
+    
+    Rock, Paper, Scissors
+    Guess the Number
+    Flip a coin
+    Roll the dice
+    8-Ball
+    
+<img width="506" alt="Screen Shot 2023-01-06 at 4 02 06 PM" src="https://user-images.githubusercontent.com/104343338/211107575-71907bdd-67bd-4f2b-9397-13bead32da58.png">
+
+Embedded _"Joke"_ app that can tell you jokes
+
+Embedded _"Story"_ app that can tell you stories
+
+Embedded _"Quote"_ app that can tell you quotes
+
+Embedded _"Developer"_ app that can tell you Developer-related information
+
+<img width="828" alt="Screen Shot 2023-01-06 at 3 57 44 PM" src="https://user-images.githubusercontent.com/104343338/211107005-83d9b03b-8105-467c-bec1-9419c2aa206e.png">
+<img width="532" alt="Screen Shot 2023-01-06 at 4 03 11 PM" src="https://user-images.githubusercontent.com/104343338/211107704-c67d9e0a-1ca1-4bc5-85a5-50b882a4b064.png">
+
+Embedded Web-scraped _"News"_ & _"Random Sentence Generator"_ apps that can tell you the latest news & generate random sentences
+
+<img width="956" alt="Screen Shot 2023-01-06 at 4 20 48 PM" src="https://user-images.githubusercontent.com/104343338/211109652-101e4f0f-1883-4e08-bcb9-c8652ff65517.png">
+
+_"Dictionary"_ app that can define any word inside the Merriam-Webster Dictionary using a unique & specially-made _Dictionary_ algorithm
+
+<img width="1019" alt="Screen Shot 2023-01-06 at 4 08 30 PM" src="https://user-images.githubusercontent.com/104343338/211108301-7177b997-c313-429d-9125-8f2375fe5b61.png">
+
+Embedded _"Weather"_ app that uses _Socket-IO_ technology to give real-time climate data based on user location 
+
+Can give a collection of algorithm, data structure, & programmer-related information on command such as:
+
+- [Alogrithm](https://en.wikipedia.org/wiki/Algorithm)
+- [Data Structure](https://en.wikipedia.org/wiki/Data_structure)
+- [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
+- [Node.js](https://nodejs.org/en/)
+- [Front-End](https://en.wikipedia.org/wiki/Front_and_back_ends)
+- [Back-End](https://en.wikipedia.org/wiki/Front_and_back_ends)
+- [Full-Stack](https://en.wikipedia.org/wiki/Full-stack_developer)
+- [RESTful API](https://en.wikipedia.org/wiki/Representational_state_transfer)
+- [API](https://en.wikipedia.org/wiki/Application_programming_interface)
+- [JSON](https://en.wikipedia.org/wiki/JSON)
+- [AI](https://en.wikipedia.org/wiki/Artificial_intelligence)
+
+<img width="830" alt="Screen Shot 2023-01-06 at 3 55 40 PM" src="https://user-images.githubusercontent.com/104343338/211106778-a773cf91-e1bc-41fc-8b47-53bb294a1b4e.png">
+<img width="556" alt="Screen Shot 2023-01-06 at 4 03 34 PM" src="https://user-images.githubusercontent.com/104343338/211107742-d0904b46-ed92-4abb-957a-3e2b64cf5d76.png">
+
+
+## AWS/S3 Bucket Functionality in Node
+
+### Full CRUD with S3 Bucket, AWS, and Node.js. Uses a random bucket name generator to create a unique bucket name for each user to avoid bucket name collisions. The bucket name is saved in a text file in the root directory in susbtitution of a database...can be easily modified to use a database.
 
 Project built using:
 
@@ -157,7 +224,7 @@ Includes a random bucket name generator to create a unique bucket name for each 
 
 [AWS/S3 Bucket Github](https://github.com/keithhetrick/s3-practice)
 
-## Installation
+### Installation
 
 In order to run this app, you will need to create a .env file in the root directory with the following variables:
 
@@ -168,7 +235,7 @@ AWS_SECRET_ACCESS_KEY=
 
 These variables are your AWS access key and secret access key. You can find these in your AWS console.
 
-## Usage
+### Usage
 
 ```
 npm install
@@ -177,9 +244,9 @@ node index.js
 
 Before running app, make sure to comment out the desired function(s) in the index.js. The app will run any function(s) that is not commented out.
 
-# Chatty Cathy, an AI personal assistant 
+## Chatty Cathy, an AI personal assistant 
 
-## Meet Cathy, a Full-stack, fully-responsive personal AI assistant. Type any question to get real-time answers from Cathy herself. Ask and you shall receive! 
+### Meet Cathy, a Full-stack, fully-responsive personal AI assistant. Type any question to get real-time answers from Cathy herself. Ask and you shall receive! 
 
 Chatty Cathy built using:
 
@@ -202,9 +269,9 @@ Deployed to AWS for 24-hr access
 
 <img width="377" alt="Screen Shot 2022-12-26 at 4 46 11 PM" src="https://user-images.githubusercontent.com/104343338/209585017-7c6f6de7-ef32-4793-982b-ad660c9340e7.png"> <img width="379" alt="Screen Shot 2022-12-26 at 4 44 41 PM" src="https://user-images.githubusercontent.com/104343338/209584933-736bf611-def4-4e5a-a83d-6ebf2b6afae5.png">
 
-# Collection of Web Scrapers in Node.js
+## Collection of Web Scrapers in Node.js
 
-## A collection of web scraping projects using Node.js & their corresponding technologies
+### A collection of web scraping projects using Node.js & their corresponding technologies
 
 Web Scrapers built using:
 
@@ -226,7 +293,7 @@ Web Scrapers built using:
 - [CsvToJson](https://www.npmjs.com/package/csvtojson)
 - [Docker](https://www.docker.com/)
 
-# Table of Contents
+## Web Scrapers
 
 ### **Formula One Scraper _(Node.js, Cheerio, Node-Fetch, PDFKit)_**
 
