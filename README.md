@@ -2,7 +2,7 @@
 <h1>Hi 👋 I’m Keith Hetrick</h1>
 
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a Full-Stack software developer. I specilaize in JavaScript (React, Node, NoSQL) & am currently learning TypeScript, React Native, Django, as well as deployment & other Cloud engineering technologies like AWS (Amazon Web Services), SSH, SSL & Bash/Linux.
+    I am a Full-Stack software developer. I specialize in JavaScript (React, Node, NoSQL) & am currently learning TypeScript, React Native, Django, as well as deployment & other Cloud engineering technologies like Docker, Postgres, AWS (like EC2, Amplify, Route 53, Image Builder, S3, Lambda), SSH, SSL & Bash/Linux.
 <br>
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >I’m looking to collaborate on projects & portfolio bulding. Looking forward to connecting with you!</p>
 <br>
@@ -41,10 +41,16 @@
       <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" />
+  </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img  alt="Redux" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"/>
+  </a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+      <img  alt="Express" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
@@ -52,14 +58,23 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
       <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   </a>
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+      <img  alt="Tailwind" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/>
+  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
+  <a href="https://aws.com/" target="_blank" rel="noreferrer">
+      <img  alt="AWS" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"/> 
+  </a>
+     <a href="https://aws.com/" target="_blank" rel="noreferrer">
+      <img  alt="Nginx" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  </a>
+     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img  alt="Github" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
@@ -68,7 +83,22 @@
       <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+      <img  alt="vscode" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img  alt="Vim" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png"/>
+  </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img  alt="Postman" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"/>
+  </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img  alt="Bash" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png"/>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img  alt="macOS" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png"/>
+            <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img  alt="Ubuntu" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"/>
   </a>
 </div>
 <br>
@@ -279,6 +309,10 @@ Web Scrapers built using:
 - [Express](https://expressjs.com/)
 - [Cheerio](https://cheerio.js.org/)
 - [Axios](https://www.npmjs.com/package/axios)
+- [Dotenv](https://www.npmjs.com/package/dotenv)
+- [File System (fs)](https://nodejs.org/api/fs.html)
+- [Path](https://nodejs.org/api/path.html)
+- [PM2 Process Management (daemon process manager)](https://pm2.keymetrics.io/)
 - [Node-Fetch](https://www.npmjs.com/package/node-fetch)
 - [Unirest](https://www.npmjs.com/package/unirest)
 - [Got-Scraping](https://www.npmjs.com/package/got-scraping)
@@ -328,7 +362,7 @@ Web Scrapers built using:
 
 ### **Google Jobs Scraper _(Node.js, Cheerio, Unirest, PDFKit)_**
 
-- _Scrapes Google for the latest jobs in an area, and converts the scraped data into a PDF file in a local folder._
+- _Running as a background app via [PM2 (Process Management)](https://pm2.keymetrics.io/), Job scrapers scrapes Google for the latest jobs in an specific area, converts the scraped data into a PDF file, saves to a local folder, & uploaded/sent as an email via custom-made [Email Sender App](https://github.com/keithhetrick/nodemailer-project)._
 
 ### **Google Images Scraper _(Node.js, Cheerio, Unirest)_**
 
