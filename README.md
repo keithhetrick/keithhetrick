@@ -1,5 +1,11 @@
 <!-- Begin First Section -->
-<h1>Hi 👋 I’m Keith Hetrick</h1>
+
+# Hi there 👋 I’m [Keith Hetrick](https://en.wikipedia.org/wiki/Keith_Hetrick)
+
+[![Website](https://img.shields.io/website?label=keithhetrick.com&style=for-the-badge&url=https://en.wikipedia.org/wiki/Keith_Hetrick)](https://en.wikipedia.org/wiki/Keith_Hetrick)
+[![Twitter Follow](https://img.shields.io/twitter/follow/keithhetrick?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%keithhetrick&screen_name=keithhetrick)
+
+## I'm a husband, father, Grammy-nominated songwriter, and software developer!
 
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a Full-Stack software developer. I specialize in JavaScript (React, Node, NoSQL) & am currently learning TypeScript, React Native, Django, as well as deployment & other Cloud engineering technologies like Docker, Postgres, AWS (like EC2, Amplify, Route 53, Image Builder, S3, Lambda), SSH, SSL & Bash/Linux.
@@ -13,6 +19,7 @@
 </div>
 </p>    
 <br>
+
 <!-- End First Section -->
 
 <!-- Begin Second Section -->
@@ -121,11 +128,11 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Keith Hetrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keithhetrick&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Keith Hetrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keithhetrick&count_private=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=keithhetrick&count_private=true&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keithhetrick&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keithhetrick&layout=compact&show_icons=true&count_private=true&theme=algolia&border_radius=20)
 
 </div>
 <!--  End Stats Cards -->
@@ -167,7 +174,6 @@ Wocka-Flock built using:
 - [Node-Cron](https://www.npmjs.com/package/node-cron)
 - [Merriam-Webster](https://dictionaryapi.com/)
 
-
 Deployed to AWS EC2 Instance for 24-hr functionality
 
 Wocka-Flocka uses Discord as its "front-end" that enables users to engage with it.
@@ -182,14 +188,14 @@ Dynamic _"Holiday Countdown"_ algorithm tells you how many days until any specif
 
 <img width="970" alt="Screen Shot 2023-01-06 at 4 11 04 PM" src="https://user-images.githubusercontent.com/104343338/211108563-00353a83-30d8-47f9-be8d-8a1d5d69e5c0.png">
 
-Plethora of embedded game apps that can be played with Wocka-Flocka such as: 
-    
+Plethora of embedded game apps that can be played with Wocka-Flocka such as:
+
     Rock, Paper, Scissors
     Guess the Number
     Flip a coin
     Roll the dice
     8-Ball
-    
+
 <img width="506" alt="Screen Shot 2023-01-06 at 4 02 06 PM" src="https://user-images.githubusercontent.com/104343338/211107575-71907bdd-67bd-4f2b-9397-13bead32da58.png">
 
 Embedded _"Joke"_ app that can tell you jokes
@@ -211,7 +217,7 @@ _"Dictionary"_ app that can define any word inside the Merriam-Webster Dictionar
 
 <img width="1019" alt="Screen Shot 2023-01-06 at 4 08 30 PM" src="https://user-images.githubusercontent.com/104343338/211108301-7177b997-c313-429d-9125-8f2375fe5b61.png">
 
-Embedded _"Weather"_ app that uses _Socket-IO_ technology to give real-time climate data based on user location 
+Embedded _"Weather"_ app that uses _Socket-IO_ technology to give real-time climate data based on user location
 
 Can give a collection of algorithm, data structure, & programmer-related information on command such as:
 
@@ -231,7 +237,6 @@ Can give a collection of algorithm, data structure, & programmer-related informa
 <img width="830" alt="Screen Shot 2023-01-06 at 3 55 40 PM" src="https://user-images.githubusercontent.com/104343338/211106778-a773cf91-e1bc-41fc-8b47-53bb294a1b4e.png">
 <img width="556" alt="Screen Shot 2023-01-06 at 4 03 34 PM" src="https://user-images.githubusercontent.com/104343338/211107742-d0904b46-ed92-4abb-957a-3e2b64cf5d76.png">
 
-
 ## AWS/S3 Bucket Functionality in Node
 
 ### Full CRUD with S3 Bucket, AWS, and Node.js. Uses a random bucket name generator to create a unique bucket name for each user to avoid bucket name collisions. The bucket name is saved in a text file in the root directory in susbtitution of a database...can be easily modified to use a database.
@@ -245,7 +250,6 @@ Project built using:
 - [AWS-SDK](https://aws.amazon.com/developer/tools/)
 - [Node-Cron](https://www.npmjs.com/package/node-cron)
 - [Nodemailer](https://www.npmjs.com/package/nodemailer)
-
 
 ```
 Automated File Read functionality that sends a daily email of the current buckets on AWS
@@ -274,9 +278,9 @@ node index.js
 
 Before running app, make sure to comment out the desired function(s) in the index.js. The app will run any function(s) that is not commented out.
 
-## Chatty Cathy, an AI personal assistant 
+## Chatty Cathy, an AI personal assistant
 
-### Meet Cathy, a Full-stack, fully-responsive personal AI assistant. Type any question to get real-time answers from Cathy herself. Ask and you shall receive! 
+### Meet Cathy, a Full-stack, fully-responsive personal AI assistant. Type any question to get real-time answers from Cathy herself. Ask and you shall receive!
 
 Chatty Cathy built using:
 
@@ -289,12 +293,10 @@ Chatty Cathy built using:
 - [AWS-EC2](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_instances.html)
 - [OpenAI](https://openai.com/)
 
-
 Deployed to AWS for 24-hr access
 
-        
 [Chatty Cathy Github](https://github.com/keithhetrick/open-ai-chatty-cathy)
-        
+
 <img width="841" alt="Screen Shot 2022-12-26 at 4 42 07 PM" src="https://user-images.githubusercontent.com/104343338/209584823-c2793b0d-88fb-42e6-bb00-214922d68006.png">
 
 <img width="377" alt="Screen Shot 2022-12-26 at 4 46 11 PM" src="https://user-images.githubusercontent.com/104343338/209585017-7c6f6de7-ef32-4793-982b-ad660c9340e7.png"> <img width="379" alt="Screen Shot 2022-12-26 at 4 44 41 PM" src="https://user-images.githubusercontent.com/104343338/209584933-736bf611-def4-4e5a-a83d-6ebf2b6afae5.png">
