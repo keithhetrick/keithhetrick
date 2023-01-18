@@ -2,15 +2,17 @@
 
 # Hi there 👋 I’m [Keith Hetrick](https://en.wikipedia.org/wiki/Keith_Hetrick)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nice+To+Meet+You!;Let's+Connect+🚀+🚀+🚀)](https://git.io/typing-svg)
+
 [![Website](https://img.shields.io/website?label=keithhetrick.com&style=for-the-badge&url=https://en.wikipedia.org/wiki/Keith_Hetrick)](https://en.wikipedia.org/wiki/Keith_Hetrick)
 [![Twitter Follow](https://img.shields.io/twitter/follow/keithhetrick?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%keithhetrick&screen_name=keithhetrick)
 
 ## I'm a husband, father, Grammy-nominated songwriter, and software developer!
 
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a Full-Stack software developer. I specialize in JavaScript (React, Node, NoSQL) & am currently learning TypeScript, React Native, Django, as well as deployment & other Cloud engineering technologies like Docker, Postgres, AWS (like EC2, Amplify, Route 53, Image Builder, S3, Lambda), SSH, SSL & Bash/Linux.
+    I am a Full-Stack software developer. I specialize in JavaScript (React, Node, NoSQL) & am currently learning TypeScript, React Native, Django, as well as deployment & other Cloud engineering technologies like AWS (like EC2, Amplify, Route 53, Image Builder, S3, Lambda), Docker, Postgres, SSH, SSL, Bash, Linux & NeoVim.
 <br>
-<p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >I’m looking to collaborate on projects & portfolio bulding. Looking forward to connecting with you!</p>
+<p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" > I’m looking to collaborate on projects & portfolio bulding. Looking forward to connecting with you!</p>
 <br>
 <div align="center">
 
@@ -50,13 +52,13 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" />
   </a>
-    <a href="https://react-redux.js.org/" target="_blank" rel="noreferrer">
+  <a href="https://react-redux.js.org/" target="_blank" rel="noreferrer">
       <img  alt="Redux" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
       <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"/>
   </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
       <img  alt="Express" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
@@ -65,7 +67,7 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
       <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img  alt="Tailwind" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -74,13 +76,13 @@
   <a href="https://aws.com/" target="_blank" rel="noreferrer">
       <img  alt="AWS" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"/> 
   </a>
-     <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
       <img  alt="Nginx" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
-     <a href="https://github.com/" target="_blank" rel="noreferrer">
+   <a href="https://github.com/" target="_blank" rel="noreferrer">
       <img  alt="Github" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -92,20 +94,32 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
-    <a href="https://github.com/vim/vim" target="_blank" rel="noreferrer">
+  <a href="https://github.com/vim/vim" target="_blank" rel="noreferrer">
       <img  alt="Vim" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png"/>
   </a>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <a href="https://neovim.io/" target="_blank" rel="noreferrer">
+      <img  alt="NeoVim" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/NeoVim-Dark.svg"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
       <img  alt="Postman" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"/>
   </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img  alt="Bash" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png"/>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/>
-        <a href="https://www.apple.com/" target="_blank" rel="noreferrer">
-      <img  alt="macOS" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png"/>
-            <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://discord.com/" target="_blank" rel="noreferrer">
+      <img  alt="Discord" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Discord.svg"/>            
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img  alt="Linux" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Linux-Dark.svg"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
       <img  alt="Ubuntu" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"/>
+  </a>
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+      <img  alt="Lua" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Lua-Dark.svg"/>
   </a>
 </div>
 <br>
@@ -135,6 +149,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keithhetrick&layout=compact&show_icons=true&count_private=true&theme=algolia&border_radius=20)
 
 </div>
+
 <!--  End Stats Cards -->
 
 <!-- End Third Section -->
