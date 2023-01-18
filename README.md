@@ -2,11 +2,27 @@
 
 # Hi there 👋 I’m [Keith Hetrick](https://en.wikipedia.org/wiki/Keith_Hetrick)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nice+To+Meet+You!;Let's+Connect+🚀+🚀+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nice+To+Meet+You!;Let's+Connect+🚀+🚀+🚀+👇🏽+👇🏽+👇🏽;Let's+Connect+🚀+🚀+🚀+👇🏽+👇🏽+👇🏽)](https://www.linkedin.com/in/keith-justin-hetrick/)
 
-[![Website](https://img.shields.io/website?label=keithhetrick.com&style=for-the-badge&url=https://en.wikipedia.org/wiki/Keith_Hetrick)](https://en.wikipedia.org/wiki/Keith_Hetrick)
-[![Twitter Follow](https://img.shields.io/twitter/follow/keithhetrick?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%keithhetrick&screen_name=keithhetrick)
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/keith-justin-hetrick/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Keith_Hetrick">
+    <img src="https://img.shields.io/badge/Wikipedia-939598?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Wikipedia Badge"/>
+  </a>
+  <a href="https://www.instagram.com/keithhetrick/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/KeithHetrick">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=keithhetrick&style=flat-square&color=blue" alt=""/>
+</div>
+    
 ## I'm a husband, father, Grammy-nominated songwriter, and software developer!
 
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
@@ -15,8 +31,8 @@
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" > I’m looking to collaborate on projects & portfolio building. Looking forward to connecting with you!</p>
 <br>
 <div align="center">
-
-[Email Me](mailto:keithjhetrick@gmail.com)
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&lines=Email+me;Email+me)](mailto:keithjhetrick@gmail.com)
 
 </div>
 </p>    
@@ -44,10 +60,10 @@
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/JavaScript.svg"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+      <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/TypeScript.svg"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" />
@@ -57,6 +73,12 @@
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
       <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"/>
+  </a>
+  <a href="https://nodemon.io/" target="_blank" rel="noreferrer">
+      <img  alt="Nodemon" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodemon.svg"/>
+  </a>
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+      <img  alt="Axios" height="50px" width="100px" style="padding-right:10px;" src="https://cdn.svgporn.com/logos/axios.svg"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
       <img  alt="Express" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"/>
@@ -70,14 +92,17 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img  alt="Tailwind" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/>
   </a>
+  <a href="https://mui.com/core/" target="_blank" rel="noreferrer">
+      <img  alt="MaterialUI" height="45px" style="padding-right:10px;" src="https://cdn.svgporn.com/logos/material-ui.svg"/>
+  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+      <img  alt="Firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   </a>
   <a href="https://aws.com/" target="_blank" rel="noreferrer">
       <img  alt="AWS" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"/> 
   </a>
    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
-      <img  alt="Nginx" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png"/> 
+      <img  alt="Nginx" height="50px" style="padding-right:10px;" src="https://icongr.am/devicon/nginx-original.svg?size=128&color=currentColor"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -92,13 +117,13 @@
       <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+      <img  alt="VSCode" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
   <a href="https://github.com/vim/vim" target="_blank" rel="noreferrer">
       <img  alt="Vim" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png"/>
   </a>
   <a href="https://neovim.io/" target="_blank" rel="noreferrer">
-      <img  alt="NeoVim" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/NeoVim-Dark.svg"/>
+      <img  alt="NeoVim" height="50px" width="100px" style="padding-right:10px;" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/neovim.svg"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
       <img  alt="Postman" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"/>
@@ -113,13 +138,13 @@
       <img  alt="Discord" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Discord.svg"/>            
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img  alt="Linux" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Linux-Dark.svg"/>
+      <img  alt="Linux" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   </a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
       <img  alt="Ubuntu" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"/>
   </a>
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-      <img  alt="Lua" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Lua-Dark.svg"/>
+      <img  alt="Lua" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/lua.svg"/>
   </a>
 </div>
 <br>
