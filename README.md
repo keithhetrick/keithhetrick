@@ -2,7 +2,7 @@
 
 # Hi there 👋 I’m [Keith Hetrick](https://en.wikipedia.org/wiki/Keith_Hetrick)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nice+To+Meet+You!;Let's+Connect+🚀+🚀+🚀+👇🏽+👇🏽+👇🏽;Let's+Connect+🚀+🚀+🚀+👇🏽+👇🏽+👇🏽)](https://www.linkedin.com/in/keith-justin-hetrick/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nice+To+Meet+You!;Let's+Connect+🚀+🚀+🚀+👇+👇+👇;Let's+Connect+🚀+🚀+🚀+👇+👇+👇+🚀+🚀+🚀)](https://www.linkedin.com/in/keith-justin-hetrick/)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/keith-justin-hetrick/">
