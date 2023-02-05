@@ -377,7 +377,7 @@ Kanban board that a user can add tasks to and update. A Kanban board is a projec
 
 Deployed to AWS (Amazon Web Services) EC2 instance.
 
-### [Cinn-Kanban](http://3.134.99.241/)
+### [Cinna-Kanban](http://3.134.99.241/)
 
 ## Built With
 
@@ -431,7 +431,7 @@ Let's play a game. Get it right, save a life ❤️
 - [AWS](https://aws.amazon.com/)
 - [AWS EC2](https://aws.amazon.com/ec2/)
 
-### [Hang That Dev Github Repo](https://github.com/keithhetrick/Cinna-Kanban)
+### [Hang That Dev Github Repo](https://github.com/keithhetrick/hangThatMan)
 
 <img width="960" alt="Screen Shot 2022-12-10 at 11 13 13 AM" src="https://user-images.githubusercontent.com/104343338/206866997-76a4df26-be4e-4189-a98b-8408601e7657.png">
 
