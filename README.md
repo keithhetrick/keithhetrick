@@ -200,7 +200,7 @@
 
 This is a full stack application that uses the Dall-E API to generate images from text prompts. The application is built using React, Node, Express, and MongoDB. Images are stored in Cloudinary (a cloud-based image and video management service), and the generated image-urls are stored in a MongoDB database, for easy access & sharability.
 
-MidJourney/DALL-E clone built with:
+### MidJourney/DALL-E clone built with:
 
 - [React](https://reactjs.org/)
 - [Node](https://nodejs.org/en/)
@@ -260,7 +260,7 @@ A simple portal for Garnish employees to keep track of their current tasks and p
 
 ### [musicNotes](http://3.141.199.221/)
 
-### Built with:
+###  musicNotes built with:
 
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
@@ -348,7 +348,7 @@ npm run start
 
 #### Group Project Collaborators: Keith Hetrick, Joshua Becker
 
-### Built with:
+### Databox built with:
 
 - [Python](https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
@@ -379,7 +379,7 @@ Deployed to AWS (Amazon Web Services) EC2 instance.
 
 ### [Cinna-Kanban](http://3.134.99.241/)
 
-## Built With
+### Cinna-Kanban built With
 
 - [MongoDB](https://www.mongodb.com/)
 - [React.js](https://reactjs.org/)
@@ -422,7 +422,7 @@ Let's play a game. Get it right, save a life ❤️
 
 ### [Hang That Dev](http://18.217.74.94/)
 
-### Built with:
+### Hang That Dev built with:
 
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -464,7 +464,7 @@ MOBILE
 
 ### Interactive bot that can tell you jokes, quotes, stories, the weather, even define words in the Merriam-Webster Dictionary! It can also play games with you such as Rock, Paper, Scissors, Guess the Number, as well as fully-integrated AI-powered conversations using OpenAI GPT-3 technology!
 
-Wocka-Flock built using:
+### Wocka-Flock Bot built with:
 
 - [Node.js](https://nodejs.org/en/)
 - [Discord.js](https://discord.js.org/#/)
@@ -549,11 +549,11 @@ Can give a collection of algorithm, data structure, & programmer-related informa
 
 #
 
-## 2. AWS/S3 Bucket Functionality in Node
+## 2. AWS/S3 Bucket CRUD Functionality in Node
 
 ### Full CRUD with S3 Bucket, AWS, and Node.js. Uses a random bucket name generator to create a unique bucket name for each user to avoid bucket name collisions. The bucket name is saved in a text file in the root directory in susbtitution of a database...can be easily modified to use a database.
 
-Project built using:
+### AWS/S3 Bucket CRUD Functionality built with:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
@@ -598,7 +598,7 @@ Before running app, make sure to comment out the desired function(s) in the inde
 
 ### [Chatty Cathy](http://3.17.24.206/)
 
-Chatty Cathy built using:
+### Chatty Cathy built with:
 
 - [Javascript](https://www.javascript.com/)
 - [Vite](https://vitejs.dev/)
@@ -623,7 +623,7 @@ Deployed to AWS for 24-hr access
 
 ### A collection of web scraping projects using Node.js & their corresponding technologies
 
-Web Scrapers built using:
+### Web Scrapers Collection built with:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
