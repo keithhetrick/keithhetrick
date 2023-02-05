@@ -44,7 +44,7 @@
 
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<h1 style="color: #44AEFB">⚙️ Languages and Tools</h1>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
@@ -156,7 +156,7 @@
 
 <!-- Statistics -->
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+<h1 style="color: #44AEFB">📊 Statistics</h1>
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
@@ -175,22 +175,28 @@
 
 </div>
 
+#
+
 <!--  End Stats Cards -->
 
 <!-- End Third Section -->
 
-<!-- Start Third Section -->
+<!-- Start Fourth Section -->
 
 <!-- Hightlights -->
-<h2 style="color: #44AEFB">⭐️ Features</h2>
+<h1 style="color: #44AEFB">⭐️ Features</h1>
 
 # Table of Contents
 
-- **MidJourney-Dall-E App** - _full stack image generator_
-- **musicNotes** - _current Employee Portal for the LA location of international Music School "Garnish"_
-- **Databox** - _ful stack file storage app, with full integration using AWS S3 buckets_
+- **1. MidJourney-Dall-E App** - _full stack image generator_
+- **2. musicNotes** - _current Employee Portal for the LA location of international Music School "Garnish"_
+- **3. Databox** - _full stack file storage app, with full integration using AWS S3 buckets_
+- **4. Cinna-Kanban** - _Kanban board that can add, update, and delete tasks & users_
+- **5. Hang That Dev!** - _a simple, front-end game, built with React & Typescript_
 
-## MidJourney/Dall-E
+#
+
+## 1. MidJourney/Dall-E
 
 This is a full stack application that uses the Dall-E API to generate images from text prompts. The application is built using React, Node, Express, and MongoDB. Images are stored in Cloudinary (a cloud-based image and video management service), and the generated image-urls are stored in a MongoDB database, for easy access & sharability.
 
@@ -209,7 +215,9 @@ MidJourney/DALL-E clone built with:
 - [Dall-E](https://openai.com/blog/dall-e/)
 - [OpenAI](https://openai.com/)
 
-## Installation
+### [MidJourney/Dall-E Github Repo](https://github.com/keithhetrick/MidJourney-Dall-E-FullStack-App)
+
+### Installation
 
 1. Clone the repo
 
@@ -237,33 +245,224 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 npm run dev
 ```
 
-## Usage
+### Usage
 
 1. Enter a text prompt in the input field
 2. Click the "Generate Image" button
 3. Click the "Save Image" button to save the image to your computer
 4. Click the "Share Image" button to share the image on social media
 
-<!--  End Stats Cards -->
+#
 
-<!-- End Third Section -->
+## 2. musicNotes
 
-<!-- Start Fourth Section -->
+A simple portal for Garnish employees to keep track of their current tasks and projects. This is a full-stack application built with React, Redux, Node.js, Express, and MongoDB. The application is currently hosted on AWS EC2, and due to permissions, the full application is only accessible to Garnish employees - only the login page is publicly accessible.
 
-<h2 style="color: #44AEFB">🤖 AI & Automation</h2>
+### [musicNotes](http://3.141.199.221/)
+
+### Built with:
+
+- [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
+- [Redux-Toolkit](https://redux-toolkit.js.org/)
+- [React-Router-Dom](https://reactrouter.com/web/guides/quick-start)
+- [JSON Web Token](https://jwt.io/)
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Express-Async-Handler](https://www.npmjs.com/package/express-async-handler)
+- [Express-Rate-Limit](https://www.npmjs.com/package/express-rate-limit)
+- [Mongoose](https://mongoosejs.com/)
+- [Mongoose-Sequences](https://www.npmjs.com/package/mongoose-sequences)
+- [Bcrypt](https://www.npmjs.com/package/bcrypt)
+- [Cookie-Parser](https://www.npmjs.com/package/cookie-parser)
+- [Dotenv](https://www.npmjs.com/package/dotenv)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
+- [UUID](https://www.npmjs.com/package/uuid)
+- [CORS](https://www.npmjs.com/package/cors)
+
+### [musicNotes Github Repo](https://github.com/keithhetrick/musicNotes)
+
+<img width="960" alt="Screen Shot 2023-02-04 at 10 57 27 PM" src="https://user-images.githubusercontent.com/104343338/216802466-3b711877-76b6-457a-bcf2-57699e3e6e20.png">
+
+<img width="959" alt="Screen Shot 2023-02-04 at 10 58 24 PM" src="https://user-images.githubusercontent.com/104343338/216802476-814dabb0-c5a7-48fe-ab2f-71dd9d29aa6a.png">
+
+<img width="379" alt="Screen Shot 2023-02-04 at 10 59 28 PM" src="https://user-images.githubusercontent.com/104343338/216802585-4b9c7003-3399-49b8-bdcc-c258c046e947.png"><img width="381" alt="Screen Shot 2023-02-04 at 11 07 50 PM" src="https://user-images.githubusercontent.com/104343338/216802816-21ab8954-5109-49b3-8318-ae1967153b3b.png">
+
+<img width="960" alt="Screen Shot 2023-02-04 at 11 04 46 PM" src="https://user-images.githubusercontent.com/104343338/216802737-4b2c7976-3c03-4ea5-9ae5-0314d998f8c1.png">
+
+<img width="378" alt="Screen Shot 2023-02-04 at 11 10 36 PM" src="https://user-images.githubusercontent.com/104343338/216802891-eff77776-8e59-4677-8196-247ca15015f3.png"><img width="378" alt="Screen Shot 2023-02-04 at 11 11 20 PM" src="https://user-images.githubusercontent.com/104343338/216802901-1f271377-d22d-413e-9863-2c5e3c876a37.png">
+
+### Installation
+
+1. Clone the repo
+
+```sh
+git clone <repo_url>
+```
+
+2. Install NPM packages on both the client and server directories
+
+```sh
+npm install
+```
+
+3. Create a .env file in the server directory and add the following:
+
+```sh
+PORT=8000
+DATABASE_URI=<your_mongoDB_uri> => can be created via MongoDB Atlas
+NODE_ENV=<development> || <production>
+ACCESS_TOKEN_SECRET=<your_access_token_secret> => can be generated inside Node shell via the following command: require('crypto').randomBytes(64).toString('hex')
+REFRESH_TOKEN_SECRET=<your_refresh_token_secret> => use the same command as above, and paste the new result into the .env file
+```
+
+4. Run the server
+
+```sh
+nodemon server.js
+```
+
+5. Run the client
+
+```sh
+npm run start
+```
+
+### Usage
+
+1. Login with your credentials
+2. Create a new project or task
+3. Assign a project or task to yourself or another employee
+4. View your current projects and tasks
+5. Managers - Update your current projects and tasks
+6. Managers - Delete your current projects and tasks
+7. Admin - Add a new employee, or update an existing employee's information
+8. Admin - Delete an employee
+
+#
+
+## 3. Databox
+
+### Full Stack Application w/ Login and Registration, full CRUD with validations and access control, S3 file storage, and API payment for membership subscription using Python/Django/React
+
+#### Group Project Collaborators: Keith Hetrick, Joshua Becker
+
+### Built with:
+
+- [Python](https://www.python.org/)
+- [Django](https://www.djangoproject.com/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [MySQL](https://www.mysql.com/)
+- [AWS S3 Bucket](https://aws.amazon.com/s3/)
+- [AWS EC2](https://aws.amazon.com/ec2/)
+- [Route 53](https://aws.amazon.com/route53/)
+
+### [Databox Github Repo](https://github.com/keithhetrick/databox)
+
+#### _Project currently in development. Databox is a cloud based file hosting and storage service._
+
+![databox_logo_lg](https://user-images.githubusercontent.com/98496684/197373955-cbe7722c-2985-4a45-bcc5-cb3ddcf981c7.png)
+
+![image](https://user-images.githubusercontent.com/98496684/205559035-b80493b9-4296-49c2-9897-d6c604069a64.png)
+
+"# databox"
+
+#
+
+## 4. Cinna-Kanban
+
+Kanban board that a user can add tasks to and update. A Kanban board is a project management tool designed to help visualize workflow for an individual and/or team.
+
+Deployed to AWS (Amazon Web Services) EC2 instance.
+
+### [Cinn-Kanban](http://3.134.99.241/)
+
+## Built With
+
+- [MongoDB](https://www.mongodb.com/)
+- [React.js](https://reactjs.org/)
+- [Express](https://expressjs.com/)
+- [Node.js](https://nodejs.org/en/)
+- [Bootstrap](https://getbootstrap.com/)
+- [AWS](https://aws.amazon.com/)
+
+### [Cinna-Kanban GitHub Repo](https://github.com/keithhetrick/Cinna-Kanban)
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Run the app
+   ```sh
+   npm start
+   ```
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### Usage
+
+1. Create a new task by clicking the "Add Task" button
+2. Update the task by clicking the "Update Task" button
+3. Delete the task by clicking the "Delete Task" button
+
+<img width="1881" alt="Screen Shot 2022-09-25 at 1 59 45 PM" src="https://user-images.githubusercontent.com/104343338/192160617-3c2812e7-12d9-4669-b794-1046e3d13b9f.png">
+
+#
+
+## 5. Hang That Dev!
+
+Let's play a game. Get it right, save a life ❤️
+
+### [Hang That Dev](http://18.217.74.94/)
+
+### Built with:
+
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React-Confetti](https://www.npmjs.com/package/react-confetti)
+- [React-Use](https://www.npmjs.com/package/react-use)
+- [AWS](https://aws.amazon.com/)
+- [AWS EC2](https://aws.amazon.com/ec2/)
+
+### [Hang That Dev Github Repo](https://github.com/keithhetrick/Cinna-Kanban)
+
+<img width="960" alt="Screen Shot 2022-12-10 at 11 13 13 AM" src="https://user-images.githubusercontent.com/104343338/206866997-76a4df26-be4e-4189-a98b-8408601e7657.png">
+
+<img width="961" alt="Screen Shot 2022-12-10 at 11 14 03 AM" src="https://user-images.githubusercontent.com/104343338/206867024-d6cb84c8-e15b-4634-9639-be44e92cbf57.png">
+
+<img width="960" alt="Screen Shot 2022-12-10 at 4 52 45 PM" src="https://user-images.githubusercontent.com/104343338/206878353-56dcabfd-7d6a-431c-bc71-b5d9b040938e.png">
+
+MOBILE
+
+<img width="379" alt="Screen Shot 2022-12-10 at 11 16 03 AM" src="https://user-images.githubusercontent.com/104343338/206867108-af6357b3-28cf-4424-9b74-18936bdd57fb.png">
+
+#
+
+<!-- End Fourth Section -->
+
+<!-- Start Fifth Section -->
+
+<h1 style="color: #44AEFB">🤖 AI & Automation</h1>
 
 # Table of Contents
 
-- **Wocka-Flocka Bot** - _automated & interactive Discord Bot_
-- **AWS/S3 Bucket Creator** - _full CRUD app that interacts directly with S3 buckets from the terminal_
-- **Chatty Cathy** - _interacive chatbot utilzing OpenAI's ChatGPT AI technology_
-- **Web Scrapers Collection** - _a series of web scraper apps in Node.js_
+- **1. Wocka-Flocka Bot** - _automated & interactive Discord Bot_
+- **2. AWS/S3 Bucket Creator** - _full CRUD app that interacts directly with S3 buckets from the terminal_
+- **3. Chatty Cathy** - _interacive chatbot utilzing OpenAI's ChatGPT AI technology_
+- **4. Web Scrapers Collection** - _a series of web scraper apps in Node.js_
 
-## Wocka-Flocka Bot
+#
+
+## 1. Wocka-Flocka Bot
 
 ### Interactive bot that can tell you jokes, quotes, stories, the weather, even define words in the Merriam-Webster Dictionary! It can also play games with you such as Rock, Paper, Scissors, Guess the Number, as well as fully-integrated AI-powered conversations using OpenAI GPT-3 technology!
-
-[Wocka-Flocka Github](https://github.com/keithhetrick/wocka-flocka-bot)
 
 Wocka-Flock built using:
 
@@ -282,6 +481,8 @@ Wocka-Flock built using:
 - [ipify2](https://www.npmjs.com/package/ipify2)
 - [Node-Cron](https://www.npmjs.com/package/node-cron)
 - [Merriam-Webster](https://dictionaryapi.com/)
+
+### [Wocka-Flocka Github Repo](https://github.com/keithhetrick/wocka-flocka-bot)
 
 Deployed to AWS EC2 Instance for 24-hr functionality
 
@@ -346,7 +547,9 @@ Can give a collection of algorithm, data structure, & programmer-related informa
 <img width="830" alt="Screen Shot 2023-01-06 at 3 55 40 PM" src="https://user-images.githubusercontent.com/104343338/211106778-a773cf91-e1bc-41fc-8b47-53bb294a1b4e.png">
 <img width="556" alt="Screen Shot 2023-01-06 at 4 03 34 PM" src="https://user-images.githubusercontent.com/104343338/211107742-d0904b46-ed92-4abb-957a-3e2b64cf5d76.png">
 
-## AWS/S3 Bucket Functionality in Node
+#
+
+## 2. AWS/S3 Bucket Functionality in Node
 
 ### Full CRUD with S3 Bucket, AWS, and Node.js. Uses a random bucket name generator to create a unique bucket name for each user to avoid bucket name collisions. The bucket name is saved in a text file in the root directory in susbtitution of a database...can be easily modified to use a database.
 
@@ -360,12 +563,12 @@ Project built using:
 - [Node-Cron](https://www.npmjs.com/package/node-cron)
 - [Nodemailer](https://www.npmjs.com/package/nodemailer)
 
+### [AWS/S3 Bucket Github Repo](https://github.com/keithhetrick/s3-practice)
+
 ```
 Automated File Read functionality that sends a daily email of the current buckets on AWS
 Includes a random bucket name generator to create a unique bucket name for each user
 ```
-
-[AWS/S3 Bucket Github](https://github.com/keithhetrick/s3-practice)
 
 ### Installation
 
@@ -387,9 +590,13 @@ node index.js
 
 Before running app, make sure to comment out the desired function(s) in the index.js. The app will run any function(s) that is not commented out.
 
-## Chatty Cathy, an AI personal assistant
+#
+
+## 3. Chatty Cathy, an AI personal assistant
 
 ### Meet Cathy, a Full-stack, fully-responsive personal AI assistant. Type any question to get real-time answers from Cathy herself. Ask and you shall receive!
+
+### [Chatty Cathy](http://3.17.24.206/)
 
 Chatty Cathy built using:
 
@@ -404,13 +611,15 @@ Chatty Cathy built using:
 
 Deployed to AWS for 24-hr access
 
-[Chatty Cathy Github](https://github.com/keithhetrick/open-ai-chatty-cathy)
+### [Chatty Cathy Github Repo](https://github.com/keithhetrick/open-ai-chatty-cathy)
 
 <img width="841" alt="Screen Shot 2022-12-26 at 4 42 07 PM" src="https://user-images.githubusercontent.com/104343338/209584823-c2793b0d-88fb-42e6-bb00-214922d68006.png">
 
 <img width="377" alt="Screen Shot 2022-12-26 at 4 46 11 PM" src="https://user-images.githubusercontent.com/104343338/209585017-7c6f6de7-ef32-4793-982b-ad660c9340e7.png"> <img width="379" alt="Screen Shot 2022-12-26 at 4 44 41 PM" src="https://user-images.githubusercontent.com/104343338/209584933-736bf611-def4-4e5a-a83d-6ebf2b6afae5.png">
 
-## Collection of Web Scrapers in Node.js
+#
+
+## 4. Collection of Web Scrapers in Node.js
 
 ### A collection of web scraping projects using Node.js & their corresponding technologies
 
@@ -437,6 +646,8 @@ Web Scrapers built using:
 - [Json2Csv](https://www.npmjs.com/package/json2csv)
 - [CsvToJson](https://www.npmjs.com/package/csvtojson)
 - [Docker](https://www.docker.com/)
+
+### [Web Scrapers Collection Github Repo](https://github.com/keithhetrick/web-scraping-with-node)
 
 ## Web Scrapers
 
@@ -491,10 +702,9 @@ Web Scrapers built using:
 
 - _Scrapes multiple websites for images, texts, can perform operations such as button clicking, form submission, as well as saves the scraped data to a local folder. Can also be automated using **Node-Cron**._
 
-[Web Scrapers Github](https://github.com/keithhetrick/web-scraping-with-node)
-
 ---
-<!-- End Fourth Section -->
+
+<!-- End Fifth Section -->
 
 <!-- Begin Footer -->
 <!-- Icons Resources -->
