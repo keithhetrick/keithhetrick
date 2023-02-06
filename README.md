@@ -188,34 +188,32 @@
 
 # Table of Contents
 
-- **1. MidJourney-Dall-E App** - _full stack image generator_
-- **2. musicNotes** - _current Employee Portal for the LA location of international Music School "Garnish"_
-- **3. Databox** - _full stack file storage app, with full integration using AWS S3 buckets_
-- **4. Cinna-Kanban** - _Kanban board that can add, update, and delete tasks & users_
+- **1. Pixel Space** - _FULL STACK - text-to-image generator & social platform_
+- **2. musicNotes** - _FULL STACK - Employee Portal for the LA location of international Music School "Garnish"_
+- **3. Databox** - _FULL STACK - file storage app, with full integration using AWS S3 buckets_
+- **4. Cinna-Kanban** - _FULL STACK - Kanban board that can add, update, and delete tasks & users_
 - **5. Hang That Dev!** - _a simple, front-end game, built with React & Typescript_
 
 #
 
-## 1. MidJourney/Dall-E
+## 1. Pixel Space
 
 This is a full stack application that uses the Dall-E API to generate images from text prompts. The application is built using React, Node, Express, and MongoDB. Images are stored in Cloudinary (a cloud-based image and video management service), and the generated image-urls are stored in a MongoDB database, for easy access & sharability.
 
-### MidJourney/DALL-E clone built with:
+### Pixel Space built with:
 
 - [React](https://reactjs.org/)
 - [Node](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [Mongoose](https://mongoosejs.com/)
-- [Nodemom](https://www.npmjs.com/package/nodemon)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
 - [Tailwind](https://tailwindcss.com/)
 - [File-Saver](https://www.npmjs.com/package/file-saver)
 - [Dotenv](https://www.npmjs.com/package/dotenv)
 - [Cloudinary](https://cloudinary.com/)
 - [Dall-E](https://openai.com/blog/dall-e/)
 - [OpenAI](https://openai.com/)
-
-### [MidJourney/Dall-E Github Repo](https://github.com/keithhetrick/MidJourney-Dall-E-FullStack-App)
 
 ### Installation
 
@@ -225,13 +223,13 @@ This is a full stack application that uses the Dall-E API to generate images fro
 git clone
 ```
 
-2. Install NPM packages
+2. Install NPM packages on both the client and server
 
 ```sh
 npm install
 ```
 
-3. Create a .env file in the root directory and add the following:
+3. Create a .env file in the server directory and add the following:
 
 ```sh
 CLOUDINARY_NAME=your_cloudinary_name
@@ -239,10 +237,11 @@ CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 ```
 
-4. Run the app
+4. Run the app on both the client and server
 
 ```sh
-npm run dev
+npm run start => client
+nodemon server => server
 ```
 
 ### Usage
@@ -260,7 +259,7 @@ A simple portal for Garnish employees to keep track of their current tasks and p
 
 ### [musicNotes](http://3.141.199.221/)
 
-###  musicNotes built with:
+### musicNotes built with:
 
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
