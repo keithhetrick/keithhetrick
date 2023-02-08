@@ -215,6 +215,8 @@ This is a full stack application that uses the Dall-E API to generate images fro
 - [Dall-E](https://openai.com/blog/dall-e/)
 - [OpenAI](https://openai.com/)
 
+### [Pixel Space Github Repo](https://github.com/keithhetrick/PixelSpace-FullStack-App)
+
 ### Installation
 
 1. Clone the repo
