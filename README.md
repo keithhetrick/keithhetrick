@@ -259,7 +259,7 @@ nodemon server => server
 
 ## 2. musicNotes
 
-A simple portal for Garnish employees to keep track of their current tasks and projects. This is a full-stack application built with React, Redux, Node.js, Express, and MongoDB. The application is currently hosted on AWS EC2, and due to permissions, the full application is only accessible to Garnish employees - only the login page is publicly accessible.
+A simple portal for Garnish employees to keep track of their current tasks and projects. This is a full-stack application built with React, Redux, Node.js, Express, and MongoDB. It has a fully functional Auth/login& reg system manually built from the ground up. The application is currently hosted on AWS EC2 and due to permissions (from the Auth functionality), the full application is only accessible to Garnish employees - only the login page is publicly accessible.
 
 ### [musicNotes](http://3.141.199.221/)
 
