@@ -192,13 +192,13 @@
 - **2. musicNotes** - _FULL STACK - Employee Portal for the LA location of international Music School "Garnish"_
 - **3. Databox** - _FULL STACK - file storage app, with full integration using AWS S3 buckets_
 - **4. Cinna-Kanban** - _FULL STACK - Kanban board that can add, update, and delete tasks & users_
-- **5. Hang That Dev!** - _a simple, front-end game, built with React & Typescript_
+- **5. Chatty Cathy** - _FULL STACK - interacive chatbot utilzing OpenAI's ChatGPT AI technology_
 
 #
 
 ## 1. Pixel Space
 
-This is a full stack application that uses the Dall-E API to generate images from text prompts. The application is built using React, Node, Express, and MongoDB. Images are stored in Cloudinary (a cloud-based image and video management service), and the generated image-urls are stored in a MongoDB database, for easy access & sharability.
+This is a full stack application that uses the Dall-E API to generate images from text prompts. The application is built using React, Node, Express, and MongoDB. Images are stored in Cloudinary (a cloud-based image and video management service), and the generated image-urls are stored in a MongoDB database, for easy access & sharability. Swipeabity is implemented on the Image page using the React-Swipeable package, and the app is deployed on AWS EC2.
 
 ### [Pixel Space](http://18.189.184.157/)
 
@@ -209,13 +209,29 @@ This is a full stack application that uses the Dall-E API to generate images fro
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [Mongoose](https://mongoosejs.com/)
+- [Express-Async-Handler](https://www.npmjs.com/package/express-async-handler)
+- [Express-Rate-Limit](https://www.npmjs.com/package/express-rate-limit)
+- [Helmet](https://helmetjs.github.io/)
+- [Cors](https://www.npmjs.com/package/cors)
+- [Passport](https://www.passportjs.org/)
+- [OAuth2](https://oauth.net/2/)
+- [Google-OAuth2](https://developers.google.com/identity/protocols/oauth2)
+- [Axios](https://www.npmjs.com/package/axios)
 - [Nodemon](https://www.npmjs.com/package/nodemon)
 - [Tailwind](https://tailwindcss.com/)
 - [File-Saver](https://www.npmjs.com/package/file-saver)
+- [UUID](https://www.npmjs.com/package/uuid)
+- [Date-FNS](https://date-fns.org/)
+- [React-Swipeable](https://www.npmjs.com/package/react-swipeable)
+- [React-Router-DOM](https://www.npmjs.com/package/react-router-dom)
+- [Font-Awesome](https://fontawesome.com/)
 - [Dotenv](https://www.npmjs.com/package/dotenv)
 - [Cloudinary](https://cloudinary.com/)
 - [Dall-E](https://openai.com/blog/dall-e/)
 - [OpenAI](https://openai.com/)
+- [TLS](https://letsencrypt.org/)
+- [AWS](https://aws.amazon.com/)
+- [AWS EC2](https://aws.amazon.com/ec2/)
 
 ### [Pixel Space Github Repo](https://github.com/keithhetrick/PixelSpace-FullStack-App)
 
@@ -236,9 +252,16 @@ npm install
 3. Create a .env file in the server directory and add the following:
 
 ```sh
+PORT=8000 || <your_port_number>
+MONGODB_URL=<your_mongoDB_uri> => can be created via MongoDB Atlas
+NODE_ENV=<development> || <production>
+ACCESS_TOKEN_SECRET=<your_access_token_secret> => can be generated inside Node shell via the following command: require('crypto').randomBytes(64).toString('hex')
+REFRESH_TOKEN_SECRET=<your_refresh_token_secret> => use the same command as above, and paste the new result into the .env file
 CLOUDINARY_NAME=your_cloudinary_name
 CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+CLIENT_ID=your_google_client_id
+CLIENT_SECRET=your_google_client_secret
 ```
 
 4. Run the app on both the client and server
@@ -419,32 +442,30 @@ Deployed to AWS (Amazon Web Services) EC2 instance.
 
 #
 
-## 5. Hang That Dev!
+## 5. Chatty Cathy, an AI personal assistant
 
-Let's play a game. Get it right, save a life ❤️
+### Meet Cathy, a Full-stack, fully-responsive personal AI assistant. Type any question to get real-time answers from Cathy herself. Ask and you shall receive!
 
-### [Hang That Dev](http://18.217.74.94/)
+### [Chatty Cathy](http://3.17.24.206/)
 
-### Hang That Dev built with:
+### Chatty Cathy built with:
 
-- [React](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [React-Confetti](https://www.npmjs.com/package/react-confetti)
-- [React-Use](https://www.npmjs.com/package/react-use)
+- [Javascript](https://www.javascript.com/)
+- [Vite](https://vitejs.dev/)
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [Axios](https://www.npmjs.com/package/axios)
 - [AWS](https://aws.amazon.com/)
-- [AWS EC2](https://aws.amazon.com/ec2/)
+- [AWS-EC2](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_instances.html)
+- [OpenAI](https://openai.com/)
 
-### [Hang That Dev Github Repo](https://github.com/keithhetrick/hangThatMan)
+Deployed to AWS for 24-hr access
 
-<img width="960" alt="Screen Shot 2022-12-10 at 11 13 13 AM" src="https://user-images.githubusercontent.com/104343338/206866997-76a4df26-be4e-4189-a98b-8408601e7657.png">
+### [Chatty Cathy Github Repo](https://github.com/keithhetrick/open-ai-chatty-cathy)
 
-<img width="961" alt="Screen Shot 2022-12-10 at 11 14 03 AM" src="https://user-images.githubusercontent.com/104343338/206867024-d6cb84c8-e15b-4634-9639-be44e92cbf57.png">
+<img width="841" alt="Screen Shot 2022-12-26 at 4 42 07 PM" src="https://user-images.githubusercontent.com/104343338/209584823-c2793b0d-88fb-42e6-bb00-214922d68006.png">
 
-<img width="960" alt="Screen Shot 2022-12-10 at 4 52 45 PM" src="https://user-images.githubusercontent.com/104343338/206878353-56dcabfd-7d6a-431c-bc71-b5d9b040938e.png">
-
-MOBILE
-
-<img width="379" alt="Screen Shot 2022-12-10 at 11 16 03 AM" src="https://user-images.githubusercontent.com/104343338/206867108-af6357b3-28cf-4424-9b74-18936bdd57fb.png">
+<img width="377" alt="Screen Shot 2022-12-26 at 4 46 11 PM" src="https://user-images.githubusercontent.com/104343338/209585017-7c6f6de7-ef32-4793-982b-ad660c9340e7.png"> <img width="379" alt="Screen Shot 2022-12-26 at 4 44 41 PM" src="https://user-images.githubusercontent.com/104343338/209584933-736bf611-def4-4e5a-a83d-6ebf2b6afae5.png">
 
 #
 
@@ -458,7 +479,6 @@ MOBILE
 
 - **1. Wocka-Flocka Bot** - _automated & interactive Discord Bot_
 - **2. AWS/S3 Bucket Creator** - _full CRUD app that interacts directly with S3 buckets from the terminal_
-- **3. Chatty Cathy** - _interacive chatbot utilzing OpenAI's ChatGPT AI technology_
 - **4. Web Scrapers Collection** - _a series of web scraper apps in Node.js_
 
 #
@@ -595,34 +615,7 @@ Before running app, make sure to comment out the desired function(s) in the inde
 
 #
 
-## 3. Chatty Cathy, an AI personal assistant
-
-### Meet Cathy, a Full-stack, fully-responsive personal AI assistant. Type any question to get real-time answers from Cathy herself. Ask and you shall receive!
-
-### [Chatty Cathy](http://3.17.24.206/)
-
-### Chatty Cathy built with:
-
-- [Javascript](https://www.javascript.com/)
-- [Vite](https://vitejs.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/)
-- [Axios](https://www.npmjs.com/package/axios)
-- [AWS](https://aws.amazon.com/)
-- [AWS-EC2](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_instances.html)
-- [OpenAI](https://openai.com/)
-
-Deployed to AWS for 24-hr access
-
-### [Chatty Cathy Github Repo](https://github.com/keithhetrick/open-ai-chatty-cathy)
-
-<img width="841" alt="Screen Shot 2022-12-26 at 4 42 07 PM" src="https://user-images.githubusercontent.com/104343338/209584823-c2793b0d-88fb-42e6-bb00-214922d68006.png">
-
-<img width="377" alt="Screen Shot 2022-12-26 at 4 46 11 PM" src="https://user-images.githubusercontent.com/104343338/209585017-7c6f6de7-ef32-4793-982b-ad660c9340e7.png"> <img width="379" alt="Screen Shot 2022-12-26 at 4 44 41 PM" src="https://user-images.githubusercontent.com/104343338/209584933-736bf611-def4-4e5a-a83d-6ebf2b6afae5.png">
-
-#
-
-## 4. Collection of Web Scrapers in Node.js
+## 3. Collection of Web Scrapers in Node.js
 
 ### A collection of web scraping projects using Node.js & their corresponding technologies
 
