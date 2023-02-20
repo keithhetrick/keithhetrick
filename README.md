@@ -251,6 +251,15 @@ This is a full stack application that uses the Dall-E API to generate images fro
 
 <img width="960" alt="Pixel-Space-User" src="https://user-images.githubusercontent.com/104343338/220172143-4de022d0-66d9-48c3-8303-fa05673c3a25.png">
 
+<img width="960" alt="Pixel-Space-Edit-User" src="https://user-images.githubusercontent.com/104343338/220173719-9e4a080b-3bd4-4d49-9de9-5ae75a97029b.png">
+
+<img width="960" alt="Pixel-Space-Edit-User-Delete-Check" src="https://user-images.githubusercontent.com/104343338/220173727-211aa89c-4cdc-4f76-a798-727fa158b6e1.png">
+
+<img width="960" alt="Pixel-Space-Edit-User-Delete-Validation" src="https://user-images.githubusercontent.com/104343338/220173741-feec19b6-f1b9-47c1-bd96-0984041bfbec.png">
+
+<img width="960" alt="Pixel-Space-Edit-User-Password-Validation" src="https://user-images.githubusercontent.com/104343338/220173756-9d42516a-ee57-44dc-988b-5c6c4dcb6e57.png">
+
+
 <img width="376" alt="Pixel-Space-Home-Mobile" src="https://user-images.githubusercontent.com/104343338/220172607-e9c7a9c7-37f0-4013-be93-355cfbeb966e.png">  <img width="376" alt="Pixel-Space-Create-Mobile" src="https://user-images.githubusercontent.com/104343338/220172390-7082e1f6-e53c-4004-b68d-da7ce646314e.png">
 <img width="376" alt="Pixel-Space-Post-Mobile" src="https://user-images.githubusercontent.com/104343338/220172625-0b60b766-cde6-434c-adc0-e192134aa5da.png">  <img width="376" alt="Pixel-Space-Register-Mobile" src="https://user-images.githubusercontent.com/104343338/220172883-8c1e810a-8277-4ccb-856e-a04b6f1848a9.png">
 
