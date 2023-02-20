@@ -235,6 +235,28 @@ This is a full stack application that uses the Dall-E API to generate images fro
 
 ### [Pixel Space Github Repo](https://github.com/keithhetrick/PixelSpace-FullStack-App)
 
+<img width="1280" alt="Pixel-Space-Home" src="https://user-images.githubusercontent.com/104343338/220170485-541ccd1d-7028-4a0c-a26c-8abc7619f361.png">
+
+<img width="1280" alt="Pixel-Space-Create" src="https://user-images.githubusercontent.com/104343338/220171045-e56981f3-9c76-495f-8988-4d8fd986247d.png">
+
+<img width="1280" alt="Pixel-Space-Create-Validation" src="https://user-images.githubusercontent.com/104343338/220170825-d1692264-fb8f-49fa-81d9-99c607527ca5.png">
+
+<img width="1280" alt="Pixel-Space-Home-With-New-Post" src="https://user-images.githubusercontent.com/104343338/220171171-3777b001-84f6-4518-8c3a-721f45451927.png">
+
+<img width="960" alt="Pixel-Space-Login" src="https://user-images.githubusercontent.com/104343338/220172090-f327a9ae-0823-4fee-871f-d6845ecf318f.png">
+
+<img width="960" alt="Pixel-Space-Register" src="https://user-images.githubusercontent.com/104343338/220172112-61284d5e-096e-40e4-8d5e-40b0e6ca8979.png">
+
+<img width="1280" alt="Pixel-Space-View-Users" src="https://user-images.githubusercontent.com/104343338/220172130-f1ee3367-34de-4c51-9b64-099c1afd329a.png">
+
+<img width="960" alt="Pixel-Space-User" src="https://user-images.githubusercontent.com/104343338/220172143-4de022d0-66d9-48c3-8303-fa05673c3a25.png">
+
+<img width="376" alt="Pixel-Space-Home-Mobile" src="https://user-images.githubusercontent.com/104343338/220172607-e9c7a9c7-37f0-4013-be93-355cfbeb966e.png">  <img width="376" alt="Pixel-Space-Create-Mobile" src="https://user-images.githubusercontent.com/104343338/220172390-7082e1f6-e53c-4004-b68d-da7ce646314e.png">
+<img width="376" alt="Pixel-Space-Post-Mobile" src="https://user-images.githubusercontent.com/104343338/220172625-0b60b766-cde6-434c-adc0-e192134aa5da.png">  <img width="376" alt="Pixel-Space-Register-Mobile" src="https://user-images.githubusercontent.com/104343338/220172883-8c1e810a-8277-4ccb-856e-a04b6f1848a9.png">
+
+
+
+
 ### Installation
 
 1. Clone the repo
