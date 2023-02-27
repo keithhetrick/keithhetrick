@@ -23,7 +23,7 @@
     <img src="https://komarev.com/ghpvc/?username=keithhetrick&style=flat-square&color=blue" alt=""/>
 </div>
     
-## I'm a husband, father, Grammy-nominated songwriter, and software developer!
+## I'm a husband, Grammy-nominated songwriter, and software developer!
 
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a Full-Stack software developer. I specialize in JavaScript (React, Node, NoSQL) & am currently learning TypeScript, React Native, Django, as well as deployment & other Cloud engineering technologies like AWS (like EC2, Amplify, Route 53, Image Builder, S3, Lambda), Docker, Postgres, SSH, SSL, Bash, Linux & NeoVim.
