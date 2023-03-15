@@ -268,7 +268,7 @@ This is a full stack application that uses the Dall-E API to generate images fro
 1. Clone the repo
 
 ```sh
-git clone
+git clone <repo_url>
 ```
 
 2. Install NPM packages on both the client and server
