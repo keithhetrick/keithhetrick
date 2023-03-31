@@ -23,7 +23,7 @@
 ## I'm a husband, Grammy-nominated songwriter, and software developer!
 
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a Full-Stack software developer. I specialize in JavaScript (React, Node, NoSQL) & am currently learning TypeScript, React Native, Django, as well as other Cloud engineering technologies like AWS (like EC2, Amplify, Route 53, Image Builder, S3, Lambda), Docker, Postgres, SSH, SSL, Bash, Linux & NeoVim.
+    I am a Full-Stack software developer. I specialize in JavaScript (React, Node, NoSQL) & am currently learning Next.js, TypeScript, C++, JUCE, React Native, Django, as well as other Cloud engineering technologies like AWS (like EC2, Amplify, Route 53, Image Builder, S3, Lambda), Vercel, Docker, Postgres, SSH, SSL, Bash, Linux & NeoVim.
 <br>
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" > I’m looking to collaborate on projects & portfolio building. Looking forward to connecting with you!</p>
 <br>
