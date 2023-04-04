@@ -123,6 +123,9 @@
       <img  alt="NeoVim" height="50px" width="100px" style="padding-right:10px;" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/neovim.svg"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+      <img  alt="C++" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
       <img  alt="Postman" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
