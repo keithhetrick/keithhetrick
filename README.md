@@ -3,7 +3,7 @@
 # Hi there 👋 I’m [Keith Hetrick](https://en.wikipedia.org/wiki/Keith_Hetrick)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nice+To+Meet+You!;Let's+Connect+🚀+🚀+🚀+👇+👇+👇;Let's+Connect+🚀+🚀+🚀+👇+👇+👇+🚀+🚀+🚀)](https://www.linkedin.com/in/keith-justin-hetrick/)
-
+ fsdf
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/keith-justin-hetrick/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
