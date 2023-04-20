@@ -62,6 +62,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/TypeScript.svg"/>
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+      <img  alt="NextJS" height="50px" style="padding-right:10px;" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" />
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" />
   </a>
