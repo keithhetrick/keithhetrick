@@ -7,6 +7,7 @@ I build professional audio products and the systems behind them: plugin architec
 ### Engineering
 
 - [Bellweather Engineering](https://www.bellweatherstudios.com/engineering)
+- [Resume](https://www.bellweatherstudios.com/resume)
 - [Cupola](https://cupola.bellweatherstudios.com/)
 - [Ground Control](https://ground-control.bellweatherstudios.com/)
 - [Bellweather Studios](https://www.bellweatherstudios.com/)
