@@ -6,11 +6,12 @@ I build professional audio products and the systems behind them: plugin architec
 
 ### Engineering
 
+- [Bellweather Audio Core](https://github.com/keithhetrick/bellweather-audio-core)
 - [Bellweather Engineering](https://www.bellweatherstudios.com/engineering)
 - [Resume](https://www.bellweatherstudios.com/resume)
-- [Cupola](https://cupola.bellweatherstudios.com/)
-- [Ground Control](https://ground-control.bellweatherstudios.com/)
-- [Bellweather Studios](https://www.bellweatherstudios.com/)
+- [Cupola](https://www.bellweatherstudios.com/cupola)
+- [Ground Control](https://www.bellweatherstudios.com/ground-control)
+- [Bellweather Studios](https://www.bellweatherstudios.com)
 
 ### Focus
 
