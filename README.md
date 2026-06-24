@@ -11,9 +11,13 @@ extension of having done the job.
 
 ### Bellweather Audio Core
 
-A snapshot out of the Bellweather ecosystem, now open source. It's
-framework-neutral C++, built around a from-scratch loudness meter
-(BS.1770 / EBU R128) with a conformance suite you can run yourself.
+A real slice of the Bellweather platform, not a demo: the framework-neutral
+audio modules, lifted out and re-licensed under Apache-2.0. The headline is a
+from-scratch loudness meter (BS.1770 / EBU R128) you can run a real conformance
+suite against. It ships with the RT-safety primitives the plugins lean on, and
+Barometer as a source-built JUCE reference. The whole thing builds clean-room,
+behind an enforced public-surface boundary so nothing from the paid tree leaks
+in.
 
 [github.com/keithhetrick/bellweather-audio-core](https://github.com/keithhetrick/bellweather-audio-core) · [bellweatherstudios.com/bellweather-audio-core](https://www.bellweatherstudios.com/bellweather-audio-core)
 
