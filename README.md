@@ -23,6 +23,6 @@ I design and ship correctness-critical software across native audio, platform in
 
 ## Background
 
-Grammy-nominated; credits with Charlie Wilson, Jennifer Lopez, Boyz II Men, Snoop Dogg, and T.I. across 1B+ cumulative streams and a Billboard #1.
+Grammy-nominated; credits with Charlie Wilson, Jennifer Lopez, Boyz II Men, Snoop Dogg, and T.I. across 1.2B+ cumulative streams and a Billboard #1.
 
 [Website](https://www.keithhetrick.com/) | [LinkedIn](https://www.linkedin.com/in/keith-justin-hetrick/)
