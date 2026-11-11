@@ -4,6 +4,12 @@ I make complex software usable and keep it working.
 
 I founded [Bellweather Studios](https://www.bellweatherstudios.com/) to build audio software for music production, from audio processing through licensing, installation, updates and support. Alongside that, I work directly with clients to turn their needs into custom software and websites.
 
+## What I work on
+
+- **Audio software:** C++ and JUCE, real-time processing, cross-platform plugins.
+- **Applications and services:** TypeScript, React/Next.js, Electron, and AWS.
+- **Getting it shipped:** testing, licensing, installers, updates, and production support.
+
 ## Selected work
 
 - [Bellweather Studio](https://bellweather.studio/) - custom software and client websites.
